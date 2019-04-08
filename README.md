@@ -66,6 +66,13 @@ If the language you want is out of the standard, you need to install the package
 
 However, if you want to install a new font and use it in this environment, you must put the font file (eg ttf) in the folder `~/.local/share/fonts`. (e.g: /home/max/.local/share/fonts)
 
+----------
+
+Some persian fonts has created to use in some place like latex.
+
+Usually they has `XB` prefix.
+
+
 ## Reference
 
 https://www.latex-project.org/
