@@ -62,6 +62,10 @@ $ bash build-arch.sh
 
 ### Font Support
 
+If the language you want is out of the standard, you need to install the package. (All packages are in the build-arch.sh script file)
+
+However, if you want to install a new font and use it in this environment, you must put the font file (eg ttf) in the folder `~/.local/share/fonts`. (e.g: /home/max/.local/share/fonts)
+
 ## Reference
 
 https://www.latex-project.org/
