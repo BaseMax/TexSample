@@ -15,13 +15,41 @@ LaTeX is free software under the terms of the LaTeX Project Public License (LPPL
 
 LaTeX is not a stand-alone typesetting program in itself, but document preparation software that runs on top of Donald E. Knuth's TeX typesetting system. TeX distributions usually bundle together all the parts needed for a working TeX system and they generally add to this both configuration and maintenance utilities. Nowadays LaTeX, and many of the packages built on it, form an important component of any major TeX distribution.
 
-
 ## Getting LaTeX
 
 Latex is introduced in a package called MiKTeX, ProTeXt, TeXLive, MacTeX.
 You can download and install it for your proper operating system.
 
 [Get started to work with latex](https://www.latex-project.org/get/)
+
+### Arch Linux
+
+My system is Arch, Linux :
+```
+Linux Base 5.0.5-arch1-1-ARCH #1 SMP PREEMPT Wed Mar 27 17:53:10 UTC 2019 x86_64 GNU/Linux
+```
+
+#### Latex packages for Arch
+
+- texlive-bibtexextra
+- texlive-bin
+- texlive-core
+- texlive-fontsextra
+- texlive-formatsextra
+- texlive-games
+- texlive-humanities
+- texlive-langchinese
+- texlive-langcyrillic
+- texlive-langextra
+- texlive-langgreek
+- texlive-langjapanese
+- texlive-langkorean
+- texlive-latexextra
+- texlive-music
+- texlive-pictures
+- texlive-pstricks
+- texlive-publishers
+- texlive-science
 
 ## Reference
 
