@@ -60,6 +60,8 @@ You can run the [build-arch.sh](https://github.com/BaseMax/TexSample/blob/master
 $ bash build-arch.sh
 ```
 
+### Font Support
+
 ## Reference
 
 https://www.latex-project.org/
