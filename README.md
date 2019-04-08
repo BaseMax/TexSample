@@ -72,6 +72,13 @@ Some persian fonts has created to use in some place like latex.
 
 Usually they has `XB` prefix.
 
+Download all fonts as [ZIP archive](https://github.com/BaseMax/TexSample/raw/master/XB-Fonts.zip).
+
+```
+cd ~/.local/share/fonts
+wget https://github.com/BaseMax/TexSample/raw/master/XB-Fonts.zip
+unzip XB-Fonts.zip
+```
 
 ## Reference
 
