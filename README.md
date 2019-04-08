@@ -11,6 +11,8 @@ TeX is a popular means of typesetting complex mathematical formulae; it has been
 
 ## What is Latex
 
+LaTeX is a **typesetting system** used to create technical and scientific documents. It is an alternative to word processing, with an emphasis on content over appearance.
+
 LaTeX is free software under the terms of the LaTeX Project Public License (LPPL). LaTeX is distributed through CTAN servers or comes as part of many easily installable and usable TeX distributions provided by the TeX User Group (TUG) or third parties. If you run into trouble, visit the help section.
 
 LaTeX is not a stand-alone typesetting program in itself, but document preparation software that runs on top of Donald E. Knuth's TeX typesetting system. TeX distributions usually bundle together all the parts needed for a working TeX system and they generally add to this both configuration and maintenance utilities. Nowadays LaTeX, and many of the packages built on it, form an important component of any major TeX distribution.
