@@ -1,4 +1,4 @@
-# TexSample
+# Tex Sample
 A guide document with some example file for Tex, Latex.
 
 ## What is Tex
