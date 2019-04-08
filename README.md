@@ -18,6 +18,7 @@ LaTeX is not a stand-alone typesetting program in itself, but document preparati
 ## Getting LaTeX
 
 Latex is introduced in a package called MiKTeX, ProTeXt, TeXLive, MacTeX.
+
 You can download and install it for your proper operating system.
 
 [Get started to work with latex](https://www.latex-project.org/get/)
