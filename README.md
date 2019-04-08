@@ -114,6 +114,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 \end{document} 
 ```
 
+![View result page](https://raw.githubusercontent.com/BaseMax/TexSample/master/test0.png)
+
 ## Reference
 
 https://www.latex-project.org/
