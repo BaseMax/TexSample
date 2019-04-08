@@ -55,6 +55,11 @@ Linux Base 5.0.5-arch1-1-ARCH #1 SMP PREEMPT Wed Mar 27 17:53:10 UTC 2019 x86_64
 
 We will need to install the **texlive-langextra** if we want to use **XePersian** package or languages like **Persian**.
 
+You can run the [build-arch.sh](https://github.com/BaseMax/TexSample/blob/master/build-arch.sh) script file.
+```
+$ bash build-arch.sh
+```
+
 ## Reference
 
 https://www.latex-project.org/
