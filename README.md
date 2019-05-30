@@ -164,6 +164,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ```
 ![View result page](https://raw.githubusercontent.com/BaseMax/TexSample/master/test1.png)
 
+### Extra Tools
+
+- https://github.com/plk/biber
+- https://www.archlinux.org/packages/community/any/biber/
+
 ### Online Service
 
 - https://latexbase.com/
