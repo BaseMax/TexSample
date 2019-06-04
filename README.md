@@ -173,7 +173,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 - https://latexbase.com/
 - https://papeeria.com/
-- https://www.overleaf.com/
+- https://www.overleaf.com/ (7 day free to sync with git, github,...)
 - https://www.sharelatex.com/
 - https://www.datazar.com/
 
