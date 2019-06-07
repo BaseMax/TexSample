@@ -185,6 +185,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [sudo] password for max: 
 ```
 
+
+```
+[max@base source]$ yaourt pygments
+1 community/python-pygments 2.4.2-1 [installed]
+    Python syntax highlighter
+2 community/python2-pygments 2.4.2-1
+    Python syntax highlighter
+```
+
 ### Extra Tools
 
 - https://github.com/plk/biber
