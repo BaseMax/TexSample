@@ -164,6 +164,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ```
 ![View result page](https://raw.githubusercontent.com/BaseMax/TexSample/master/test1.png)
 
+---------
+
+### Code Highlighting
+
+- https://www.overleaf.com/learn/latex/Code_Highlighting_with_minted
+- https://stackoverflow.com/questions/300521/latex-package-to-do-syntax-highlighting-of-code-in-various-languages
+- http://2ality.com/2011/11/custom-latex.html
+- https://tex.stackexchange.com/questions/380799/warning-when-adding-package-minted?noredirect=1&lq=1
+- https://tex.stackexchange.com/questions/23458/how-to-install-syntax-highlight-package-minted-on-windows-7
+
+```
+[max@base source]$ yaourt minted
+1 community/minted 2.5-1
+    Syntax highlighted source code for LaTeX
+1
+==> Enter n° of packages to be installed (e.g., 1 2 3 or 1-3)
+==> ---------------------------------------------------------
+==> 
+[sudo] password for max: 
+```
+
 ### Extra Tools
 
 - https://github.com/plk/biber
